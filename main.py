@@ -1,13 +1,12 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 def main ():
-    print('hii')
+    plan = input('enter plan text :')
+    key = input('enter encryption key :')
 
+    plan = input('enter plan text :')
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
