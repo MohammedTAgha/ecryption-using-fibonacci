@@ -66,7 +66,7 @@ def main ():
         cipher = cipher + charcipher
     print('*=> step 4 :')
     print('Add ASCII codes of plain text to Intermediate text' , sum)
-    print('*=> step 4 :')
+    print('*=> step 5 :')
     print('previous converted to uni code')
     print(cipher)
 
